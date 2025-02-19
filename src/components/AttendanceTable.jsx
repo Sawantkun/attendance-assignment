@@ -119,9 +119,6 @@ const AttendanceTable = () => {
               <Link className="w-4 h-4" />
             </button>
             <button className="p-1 hover:bg-gray-100 rounded">
-              <MoreHorizontal className="w-4 h-4" />
-            </button>
-            <button className="p-1 hover:bg-gray-100 rounded">
               <ChevronDown className="w-4 h-4" />
             </button>
           </div>
