@@ -17,7 +17,7 @@ const Dashboard = () => {
         <div>
         <UsersSidebar/>
         </div>
-       <div className='flex-col'>
+       <div className='flex-col flex-nowrap'>
        <SummaryStats/>
        <AttendanceTable/>
        </div>
